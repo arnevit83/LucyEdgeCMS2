@@ -37,7 +37,7 @@ module.exports = {
   */
   build: {
     /*
-    ** Run ESLint on save
+    ** Run ESLint on save 
     */
     vendor: ['vee-validate'],
     extend (config, { isDev, isClient }) {
